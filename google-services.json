@@ -1,3 +1,42 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "556160012406",
+    "firebase_url": "https://beachbitesproject.firebaseio.com",
+    "project_id": "beachbitesproject",
+    "storage_bucket": "beachbitesproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556160012406:android:c8bcdd2582e3bca4",
+        "android_client_info": {
+          "package_name": "com.csulb.beachbites"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556160012406-951t9eaekja4q42ij0qe3dd5kbl5i70h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBefxSDWOyJ7QIAAgbciB5F62yXtZgU-rQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
